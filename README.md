@@ -2,7 +2,7 @@
 En Discord bot som kan fortælle informationer om ens næste time
 
 # Før du kan starte
-Før du kan starte botten skal du først installere python-lectio og discord.py, det kan du gøre sådan her
+Før du kan starte botten skal du først installere [python-lectio](https://github.com/jona799t/python-lectio) og [discord.py](https://github.com/Rapptz/discord.py), det kan du gøre sådan her
 ```
 pip install python-lectio==0.0.1
 pip install discord.py==1.7.3
